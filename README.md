@@ -5,6 +5,7 @@ This is a basic ARP spoofer writtern in python3.To spoof you will need to provid
 
 
 1)Targer Ip
+
 2)Gateway Ip
 
 You can run the script by using the below command in root 
